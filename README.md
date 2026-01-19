@@ -115,5 +115,5 @@ The project includes a manual testing feature where the user can input a custom 
 - Build a web interface using Flask or Streamlit
 - Deploy the model as an API
 
----
+
 
